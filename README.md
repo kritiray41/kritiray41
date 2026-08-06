@@ -5,15 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=kritiray41&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Kriti Ray</h1>
-
 <h3 align="center">
-Computer Science Student 
+Building scalable applications • Solving DSA • Exploring AI & ML
 </h3>
-
-<p align="center">
-Passionate about building projects, solving DSA problems and exploring Machine Learning.
-</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;C%2B%2B+Developer;Flutter+Developer;Machine+Learning+Learner;Open+Source+Contributor" />
 </p>
