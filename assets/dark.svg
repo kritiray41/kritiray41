@@ -1,16 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
   <rect width="1200" height="300" fill="#0d1117"/>
-  <text x="60" y="120"
+
+  <text x="60" y="110"
         fill="#58a6ff"
         font-size="42"
         font-family="Arial">
     Hi 👋 I'm Kriti Ray
   </text>
 
-  <text x="60" y="180"
+  <text x="60" y="165"
         fill="white"
         font-size="24"
         font-family="Arial">
-    Computer Science Student | Open Source Contributor
+    Computer Science Student
+  </text>
+
+  <text x="60" y="210"
+        fill="#58a6ff"
+        font-size="20"
+        font-family="Arial">
+    C++ • Flutter • Machine Learning • Open Source
   </text>
 </svg>
