@@ -1,11 +1,22 @@
 <p align="center">
   <img src="assets/dark.svg" width="100%">
 </p>
-# 👋 Hi, I'm Kriti Ray
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kritiray41&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-🎓 **Computer Science Student at IIIT Manipur**
+<h1 align="center">Hi 👋, I'm Kriti Ray</h1>
 
-💻 Passionate about **Web Development, Machine Learning, Open Source, and Data Structures & Algorithms.**
+<h3 align="center">
+Computer Science Student 
+</h3>
+
+<p align="center">
+Passionate about building projects, solving DSA problems and exploring Machine Learning.
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;C%2B%2B+Developer;Flutter+Developer;Machine+Learning+Learner;Open+Source+Contributor" />
+</p>
 
 ### 🌱 Currently Learning
 - Python
@@ -86,21 +97,29 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 
 ## 🚀 Featured Projects
 
-### 🌦 Weather Reporter
-Python application using the OpenWeatherMap API.
+| Project | Tech |
+|---------|------|
+| 🌦 Weather Reporter | Python, OpenWeather API |
+| 📱 Habit Tracker | Flutter, Firebase |
+| 💻 DSA Repository | C++ |
+| 🤖 AI Dev Assistant | Open Source |
+| 📊 House Price Prediction | Machine Learning |
 
-### 📱 Habit Tracker
-Flutter app for tracking daily habits.
+## 📈 GitHub Activity
 
-### 💻 DSA Repository
-Solutions to Data Structures & Algorithms problems in C++.
+## 🤝 Open to
 
-### 🤖 AI Dev Assistant
-Open-source contribution project.
-
-### 📊 House Price Prediction
-Machine Learning regression project.
+- Open Source Contributions
+- Software Development Internships
+- Machine Learning Projects
+- Collaborative Student Projects
 
 ## 💡 Quote
 
 > "Code. Learn. Build. Repeat."
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
