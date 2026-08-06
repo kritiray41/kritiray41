@@ -1,9 +1,36 @@
 <p align="center">
   <img src="assets/dark.svg" width="100%">
 </p>
-# 💫 About Me:
-👋 Hi, I'm Kriti Ray  <br>🎓 Computer Science student | Web Development Enthusiast  <br><br>💻 I'm currently working on:<br>- Small web projects using HTML, CSS, and JavaScript  <br>- Improving my problem-solving skills with C and C++<br><br>🌱 I'm currently learning:<br>- JavaScript concepts<br>- Firebase basics<br>- Git & GitHub<br><br>🤝 I'm looking to collaborate on:<br>- Beginner-friendly web projects<br>- Open-source contributions for students<br><br>📫 Ask me about:<br>- C / C++<br>- Frontend basics<br>- GitHub projects<br><br>⚡ Fun fact:<br>I enjoy turning small ideas into working projects.
+# 👋 Hi, I'm Kriti Ray
 
+🎓 **Computer Science Student at IIIT Manipur**
+
+💻 Passionate about **Web Development, Machine Learning, Open Source, and Data Structures & Algorithms.**
+
+### 🌱 Currently Learning
+- Python
+- Machine Learning
+- Flutter
+- Firebase
+- Advanced DSA
+
+### 🚀 Currently Working On
+- Personal Projects
+- Open Source Contributions
+- Strengthening Problem Solving
+
+### 🤝 Looking to Collaborate On
+- Open Source Projects
+- Web Development
+- Machine Learning Projects
+
+### 💬 Ask Me About
+- C / C++
+- Git & GitHub
+- HTML, CSS & JavaScript
+
+### ⚡ Fun Fact
+I enjoy turning ideas into real-world projects and continuously learning new technologies.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kriti Ray) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kritiray618@gmail.com) 
