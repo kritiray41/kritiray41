@@ -1,24 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300">
-  <rect width="1200" height="300" fill="#0d1117"/>
+<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
 
-  <text x="60" y="110"
-        fill="#58a6ff"
-        font-size="42"
-        font-family="Arial">
-    Hi 👋 I'm Kriti Ray
-  </text>
+<defs>
 
-  <text x="60" y="165"
-        fill="white"
-        font-size="24"
-        font-family="Arial">
-    Computer Science Student
-  </text>
+<linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
 
-  <text x="60" y="210"
-        fill="#58a6ff"
-        font-size="20"
-        font-family="Arial">
-    C++ • Flutter • Machine Learning • Open Source
-  </text>
+<stop offset="0%" stop-color="#0f2027">
+<animate attributeName="stop-color"
+values="#0f2027;#203a43;#2c5364;#0f2027"
+dur="8s"
+repeatCount="indefinite"/>
+
+</stop>
+
+<stop offset="100%" stop-color="#2c5364">
+<animate attributeName="stop-color"
+values="#2c5364;#0f2027;#203a43;#2c5364"
+dur="8s"
+repeatCount="indefinite"/>
+
+</stop>
+
+</linearGradient>
+
+</defs>
+
+<rect width="1200" height="300" rx="20" fill="url(#grad)"/>
+
+<text x="60"
+      y="90"
+      font-size="42"
+      fill="white"
+      font-family="Arial">
+
+👋 Hi, I'm Kriti Ray
+
+</text>
+
+<text x="60"
+      y="140"
+      font-size="24"
+      fill="#90caf9">
+
+Computer Science Student
+
+</text>
+
+<text x="60"
+      y="200"
+      font-size="22"
+      fill="#58a6ff">
+
+> C++ Developer_
+
+</text>
+
+<text x="60"
+      y="235"
+      font-size="22"
+      fill="#58a6ff">
+
+> Machine Learning Enthusiast_
+
+</text>
+
+<text x="60"
+      y="270"
+      font-size="22"
+      fill="#58a6ff">
+
+> Open Source Contributor_
+
+</text>
+
 </svg>
