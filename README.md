@@ -24,11 +24,12 @@ Passionate about building projects, solving DSA problems and exploring Machine L
 - Flutter
 - Firebase
 - Advanced DSA
-
 ### 🚀 Currently Working On
-- Personal Projects
-- Open Source Contributions
-- Strengthening Problem Solving
+
+- 🌦 Weather Reporter (Python)
+- 📊 Machine Learning Projects
+- 💻 Solving Data Structures & Algorithms
+- 🌍 Open Source Contributions
 
 ### 🤝 Looking to Collaborate On
 - Open Source Projects
@@ -36,9 +37,12 @@ Passionate about building projects, solving DSA problems and exploring Machine L
 - Machine Learning Projects
 
 ### 💬 Ask Me About
-- C / C++
-- Git & GitHub
-- HTML, CSS & JavaScript
+
+- 💻 C / C++
+- 🌐 Web Development
+- 🔥 Git & GitHub
+- 📊 Machine Learning Basics
+- 🧩 Data Structures & Algorithms
 
 ### ⚡ Fun Fact
 I enjoy turning ideas into real-world projects and continuously learning new technologies.
@@ -54,6 +58,22 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+## 🌍 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/u/kit_zz/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+
+<a href="https://www.kaggle.com/kritiray">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+</p>
+
+
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -87,25 +107,27 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritiray41&layout=compact&theme=tokyonight"/>
 </p>
 
-## 🌱 Currently Learning
-
-- 🤖 Machine Learning
-- 📊 Data Science
-- 🐍 Python
-- 📱 Flutter
-- ⚡ Advanced Data Structures & Algorithms
-
 ## 🚀 Featured Projects
 
-| Project | Tech |
-|---------|------|
-| 🌦 Weather Reporter | Python, OpenWeather API |
-| 📱 Habit Tracker | Flutter, Firebase |
-| 💻 DSA Repository | C++ |
-| 🤖 AI Dev Assistant | Open Source |
-| 📊 House Price Prediction | Machine Learning |
+| Project | Description |
+|----------|-------------|
+| 🌦 [Weather Reporter](https://github.com/kritiray41/python-weather-reporter) | Python weather application using OpenWeatherMap API |
+| 📱 Habit Tracker | Flutter application for tracking daily habits |
+| 💻 [DSA Repository](https://github.com/kritiray41/DSA) | Collection of DSA solutions in C++ |
+| 🤖 AI Dev Assistant | Open Source contribution project |
+| 📊 House Price Prediction | Machine Learning regression project |
 
-## 📈 GitHub Activity
+## 📈 GitHub Statistics
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kritiray41&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kritiray41&theme=tokyo-night"/>
+</p>
 
 ## 🤝 Open to
 
@@ -120,6 +142,12 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 
 ---
 
+---
+
 <p align="center">
+
 ⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, consider ⭐ starring my repositories.
+
 </p>
