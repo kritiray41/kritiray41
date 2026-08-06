@@ -71,5 +71,25 @@ Computer Science Student
 > Open Source Contributor_
 
 </text>
+   <circle cx="980" cy="80" r="18" fill="#ffffff30">
+<animate attributeName="cy"
+values="80;60;80"
+dur="4s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1050" cy="180" r="10" fill="#ffffff30">
+<animate attributeName="cy"
+values="180;150;180"
+dur="3s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1120" cy="120" r="25" fill="#ffffff20">
+<animate attributeName="cy"
+values="120;90;120"
+dur="5s"
+repeatCount="indefinite"/>
+</circle>   
 
 </svg>
