@@ -104,6 +104,7 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kritiray41&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
