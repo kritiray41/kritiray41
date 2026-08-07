@@ -12,35 +12,35 @@
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Python
 - Machine Learning
 - Flutter
 - Firebase
 - Advanced DSA
 
-### 🚀 Currently Working On
-- 🌦 Weather Reporter (Python)
-- 📊 Machine Learning Projects
-- 💻 Solving Data Structures & Algorithms
-- 🌍 Open Source Contributions
+### Currently Working On
+- Weather Reporter (Python)
+- Machine Learning Projects
+- Solving Data Structures & Algorithms
+- Open Source Contributions
 
-### 🤝 Looking to Collaborate On
+### Looking to Collaborate On
 - Open Source Projects
 - Web Development
 - Machine Learning Projects
 
-### 💬 Ask Me About
-- 💻 C / C++
-- 🌐 Web Development
-- 🔥 Git & GitHub
-- 📊 Machine Learning Basics
-- 🧩 Data Structures & Algorithms
+### Ask Me About
+- C / C++
+- Web Development
+- Git & GitHub
+- Machine Learning Basics
+- Data Structures & Algorithms
 
-### ⚡ Fun Fact
+### Fun Fact
 I enjoy turning ideas into real-world projects and continuously learning new technologies.
 
-## 🌐 Connect with Me & Coding Profiles
+## Connect with Me & Coding Profiles
 
 <p align="left">
   <a href="https://linkedin.com/in/Kriti Ray" target="blank">
@@ -57,7 +57,7 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
   </a>
 </p>
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -78,7 +78,7 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kritiray41&show_icons=true&theme=tokyonight"/>
@@ -89,23 +89,23 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritiray41&layout=compact&theme=tokyonight"/>
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 🌦 [Weather Reporter](https://github.com/kritiray41/python-weather-reporter) | Python weather application using OpenWeatherMap API |
-| 📱 Habit Tracker | Flutter application for tracking daily habits |
-| 💻 [DSA Repository](https://github.com/kritiray41/DSA) | Collection of DSA solutions in C++ |
-| 🤖 AI Dev Assistant | Open Source contribution project |
-| 📊 House Price Prediction | Machine Learning regression project |
+| [Weather Reporter](https://github.com/kritiray41/python-weather-reporter) | Python weather application using OpenWeatherMap API |
+| Habit Tracker | Flutter application for tracking daily habits |
+| [DSA Repository](https://github.com/kritiray41/DSA) | Collection of DSA solutions in C++ |
+| AI Dev Assistant | Open Source contribution project |
+| House Price Prediction | Machine Learning regression project |
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kritiray41&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -115,26 +115,26 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
   </picture>
 </p>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritiray41&theme=tokyo-night"/>
 </p>
 
-## 🤝 Open to
+## Open to
 
 - Open Source Contributions
 - Software Development Internships
 - Machine Learning Projects
 - Collaborative Student Projects
 
-## 💡 Quote
+## Quote
 
 > "Code. Learn. Build. Repeat."
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐<br>
-  If you like my work, consider ⭐ starring my repositories.
+  Thanks for visiting my profile!<br>
+  If you like my work, consider starring my repositories.
 </p>
