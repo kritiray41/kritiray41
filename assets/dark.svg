@@ -61,10 +61,10 @@
       </tspan>
     </text>
 
-    <!-- Details -->
+    <!-- Details (Fixed the ampersand bugs here) -->
     <text x="490" y="330" font-size="18" fill="#94A3B8">📍 Based in India</text>
-    <text x="490" y="370" font-size="18" fill="#94A3B8">🎓 Learning Advanced DSA & Machine Learning</text>
-    <text x="490" y="410" font-size="18" fill="#94A3B8">🔭 Currently working on Open Source & Weather Reporter</text>
+    <text x="490" y="370" font-size="18" fill="#94A3B8">🎓 Learning Advanced DSA &amp; Machine Learning</text>
+    <text x="490" y="410" font-size="18" fill="#94A3B8">🔭 Currently working on Open Source &amp; Weather Reporter</text>
 
     <!-- Glowing Skills Pills -->
     <g transform="translate(490, 460)">
