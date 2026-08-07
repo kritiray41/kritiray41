@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="assets/dark.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+    <img alt="Kriti Ray GitHub Profile Header" src="assets/light.svg" width="100%">
+  </picture>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kritiray41&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">
-Building scalable applications • Solving DSA • Exploring AI & ML
-</h3>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;C%2B%2B+Developer;Flutter+Developer;Machine+Learning+Learner;Open+Source+Contributor" />
-</p>
+---
 
 ### 🌱 Currently Learning
 - Python
@@ -18,8 +18,8 @@ Building scalable applications • Solving DSA • Exploring AI & ML
 - Flutter
 - Firebase
 - Advanced DSA
-### 🚀 Currently Working On
 
+### 🚀 Currently Working On
 - 🌦 Weather Reporter (Python)
 - 📊 Machine Learning Projects
 - 💻 Solving Data Structures & Algorithms
@@ -31,7 +31,6 @@ Building scalable applications • Solving DSA • Exploring AI & ML
 - Machine Learning Projects
 
 ### 💬 Ask Me About
-
 - 💻 C / C++
 - 🌐 Web Development
 - 🔥 Git & GitHub
@@ -41,32 +40,22 @@ Building scalable applications • Solving DSA • Exploring AI & ML
 ### ⚡ Fun Fact
 I enjoy turning ideas into real-world projects and continuously learning new technologies.
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me & Coding Profiles
 
 <p align="left">
-<a href="https://linkedin.com/in/Kriti Ray" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kritiray618@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://linkedin.com/in/Kriti Ray" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kritiray618@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/kit_zz/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/kritiray">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
 </p>
-
-## 🌍 Coding Profiles
-
-<p align="left">
-<a href="https://leetcode.com/u/kit_zz/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-
-<a href="https://www.kaggle.com/kritiray">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-</p>
-
-
 
 ## 💻 Tech Stack
 
@@ -92,13 +81,12 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kritiray41&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kritiray41&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kritiray41&show_icons=true&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kritiray41&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritiray41&layout=compact&theme=tokyonight"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritiray41&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 🚀 Featured Projects
@@ -111,16 +99,16 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 | 🤖 AI Dev Assistant | Open Source contribution project |
 | 📊 House Price Prediction | Machine Learning regression project |
 
-## 📈 GitHub Statistics
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kritiray41&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kritiray41&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kritiray41&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kritiray41&theme=tokyo-night"/>
 </p>
 
 ## 🤝 Open to
@@ -136,12 +124,7 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 
 ---
 
----
-
 <p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-If you like my work, consider ⭐ starring my repositories.
-
+  ⭐ Thanks for visiting my profile! ⭐<br>
+  If you like my work, consider ⭐ starring my repositories.
 </p>
