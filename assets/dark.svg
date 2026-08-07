@@ -14,15 +14,6 @@
       <animate attributeName="x1" values="0%;-100%" dur="5s" repeatCount="indefinite" />
       <animate attributeName="x2" values="200%;100%" dur="5s" repeatCount="indefinite" />
     </linearGradient>
-
-    <!-- Glowing Filter -->
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
   <!-- Canvas Background -->
@@ -47,7 +38,7 @@
   </g>
 
   <!-- RIGHT SIDE: Terminal Window -->
-  <rect x="450" y="50" width="680" height="510" rx="12" fill="#0F172A" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" filter="drop-shadow(0 10px 20px rgba(0,0,0,0.5))"/>
+  <rect x="450" y="50" width="680" height="510" rx="12" fill="#0F172A" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" />
   
   <!-- Terminal Header Dots -->
   <circle cx="475" cy="75" r="6" fill="#EF4444" />
@@ -62,7 +53,7 @@
     
     <!-- Animated Typing Text -->
     <text x="490" y="270" font-size="24" fill="url(#accent-dark)" font-weight="600" font-family="monospace">
-      > Computer Science Student
+      &gt; Computer Science Student
       <!-- Blinking Cursor -->
       <tspan fill="#22D3EE">
         _
