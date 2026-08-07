@@ -104,6 +104,15 @@ I enjoy turning ideas into real-world projects and continuously learning new tec
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kritiray41&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kritiray41/kritiray41/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kritiray41/kritiray41/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/kritiray41/kritiray41/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
 ## 📈 Contribution Graph
 
