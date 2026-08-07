@@ -1,95 +1,94 @@
-<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg-dark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    
+    <!-- Accent Text Gradient -->
+    <linearGradient id="accent-dark" x1="0%" y1="0%" x2="200%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED" />
+      <stop offset="50%" stop-color="#22D3EE" />
+      <stop offset="100%" stop-color="#10B981" />
+      <animate attributeName="x1" values="0%;-100%" dur="5s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="200%;100%" dur="5s" repeatCount="indefinite" />
+    </linearGradient>
 
-<defs>
+    <!-- Glowing Filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
-<linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+  <!-- Canvas Background -->
+  <rect width="1180" height="610" rx="20" fill="url(#bg-dark)" stroke="rgba(255,255,255,0.08)" stroke-width="2"/>
 
-<stop offset="0%" stop-color="#0f2027">
-<animate attributeName="stop-color"
-values="#0f2027;#203a43;#2c5364;#0f2027"
-dur="8s"
-repeatCount="indefinite"/>
+  <!-- LEFT SIDE: Animated ASCII Concept -->
+  <g transform="translate(80, 150)" font-family="monospace" font-size="14" fill="url(#accent-dark)" font-weight="bold">
+    <text y="0">██╗  ██╗██████╗ ██╗████████╗██╗</text>
+    <text y="25">██║ ██╔╝██╔══██╗██║╚══██╔══╝██║</text>
+    <text y="50">█████╔╝ ██████╔╝██║   ██║   ██║</text>
+    <text y="75">██╔═██╗ ██╔══██╗██║   ██║   ██║</text>
+    <text y="100">██║  ██╗██║  ██║██║   ██║   ██║</text>
+    <text y="125">╚═╝  ╚═╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝</text>
+    
+    <text y="180" opacity="0.7">██████╗  █████╗ ██╗   ██╗</text>
+    <text y="205" opacity="0.7">██╔══██╗██╔══██╗╚██╗ ██╔╝</text>
+    <text y="230" opacity="0.7">██████╔╝███████║ ╚████╔╝ </text>
+    <text y="255" opacity="0.7">██╔══██╗██╔══██║  ╚██╔╝  </text>
+    <text y="280" opacity="0.7">██║  ██║██║  ██║   ██║   </text>
+    <text y="305" opacity="0.7">╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   </text>
+    <animateTransform attributeName="transform" type="translate" values="80,150; 80,145; 80,150" dur="4s" repeatCount="indefinite"/>
+  </g>
 
-</stop>
+  <!-- RIGHT SIDE: Terminal Window -->
+  <rect x="450" y="50" width="680" height="510" rx="12" fill="#0F172A" stroke="rgba(255,255,255,0.08)" stroke-width="1.5" filter="drop-shadow(0 10px 20px rgba(0,0,0,0.5))"/>
+  
+  <!-- Terminal Header Dots -->
+  <circle cx="475" cy="75" r="6" fill="#EF4444" />
+  <circle cx="495" cy="75" r="6" fill="#F59E0B" />
+  <circle cx="515" cy="75" r="6" fill="#10B981" />
+  <line x1="450" y1="100" x2="1130" y2="100" stroke="rgba(255,255,255,0.08)" stroke-width="1.5"/>
 
-<stop offset="100%" stop-color="#2c5364">
-<animate attributeName="stop-color"
-values="#2c5364;#0f2027;#203a43;#2c5364"
-dur="8s"
-repeatCount="indefinite"/>
+  <!-- Text Content -->
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <text x="490" y="160" font-size="32" fill="#F8FAFC" font-weight="bold">Hi 👋</text>
+    <text x="490" y="215" font-size="48" fill="#F8FAFC" font-weight="900">I'm Kriti Ray</text>
+    
+    <!-- Animated Typing Text -->
+    <text x="490" y="270" font-size="24" fill="url(#accent-dark)" font-weight="600" font-family="monospace">
+      > Computer Science Student
+      <!-- Blinking Cursor -->
+      <tspan fill="#22D3EE">
+        _
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </tspan>
+    </text>
 
-</stop>
+    <!-- Details -->
+    <text x="490" y="330" font-size="18" fill="#94A3B8">📍 Based in India</text>
+    <text x="490" y="370" font-size="18" fill="#94A3B8">🎓 Learning Advanced DSA & Machine Learning</text>
+    <text x="490" y="410" font-size="18" fill="#94A3B8">🔭 Currently working on Open Source & Weather Reporter</text>
 
-</linearGradient>
-
-</defs>
-
-<rect width="1200" height="300" rx="20" fill="url(#grad)"/>
-
-<text x="60"
-      y="90"
-      font-size="42"
-      fill="white"
-      font-family="Arial">
-
-👋 Hi, I'm Kriti Ray
-
-</text>
-
-<text x="60"
-      y="140"
-      font-size="24"
-      fill="#90caf9">
-
-Computer Science Student
-
-</text>
-
-<text x="60"
-      y="200"
-      font-size="22"
-      fill="#58a6ff">
-
-> C++ Developer_
-
-</text>
-
-<text x="60"
-      y="235"
-      font-size="22"
-      fill="#58a6ff">
-
-> Machine Learning Enthusiast_
-
-</text>
-
-<text x="60"
-      y="270"
-      font-size="22"
-      fill="#58a6ff">
-
-> Open Source Contributor_
-
-</text>
-   <circle cx="980" cy="80" r="18" fill="#ffffff30">
-<animate attributeName="cy"
-values="80;60;80"
-dur="4s"
-repeatCount="indefinite"/>
-</circle>
-
-<circle cx="1050" cy="180" r="10" fill="#ffffff30">
-<animate attributeName="cy"
-values="180;150;180"
-dur="3s"
-repeatCount="indefinite"/>
-</circle>
-
-<circle cx="1120" cy="120" r="25" fill="#ffffff20">
-<animate attributeName="cy"
-values="120;90;120"
-dur="5s"
-repeatCount="indefinite"/>
-</circle>   
-
+    <!-- Glowing Skills Pills -->
+    <g transform="translate(490, 460)">
+      <!-- Pill 1 -->
+      <rect x="0" y="0" width="80" height="32" rx="16" fill="rgba(255,255,255,0.05)" stroke="url(#accent-dark)"/>
+      <text x="40" y="21" font-size="14" fill="#F8FAFC" text-anchor="middle">C/C++</text>
+      <!-- Pill 2 -->
+      <rect x="95" y="0" width="85" height="32" rx="16" fill="rgba(255,255,255,0.05)" stroke="url(#accent-dark)"/>
+      <text x="137" y="21" font-size="14" fill="#F8FAFC" text-anchor="middle">Python</text>
+      <!-- Pill 3 -->
+      <rect x="195" y="0" width="85" height="32" rx="16" fill="rgba(255,255,255,0.05)" stroke="url(#accent-dark)"/>
+      <text x="237" y="21" font-size="14" fill="#F8FAFC" text-anchor="middle">Flutter</text>
+      <!-- Pill 4 -->
+      <rect x="295" y="0" width="70" height="32" rx="16" fill="rgba(255,255,255,0.05)" stroke="url(#accent-dark)"/>
+      <text x="330" y="21" font-size="14" fill="#F8FAFC" text-anchor="middle">Git</text>
+    </g>
+  </g>
 </svg>
